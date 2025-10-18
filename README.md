@@ -14,5 +14,3 @@ I believe the game log would be really fun to work on. Every gamer has an issue 
 
 Sep 24th
 I had a call with Sarah and we decided that I should do a budgeting app instead.
-
-Testing to see if this works
